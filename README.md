@@ -1,3 +1,5 @@
+ ## Dockerizing the django app
+ 
  Clone the repo
 
   ```bash 
@@ -14,5 +16,4 @@ Run the container using port mapping
   docker run -p 8000:8000 -it <image_id>
   ```
 
-Tutorial in Nepali
 [Watch the tutorial on YouTube](https://youtu.be/CIkal80mSME)
